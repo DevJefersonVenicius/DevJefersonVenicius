@@ -1,6 +1,5 @@
 ### Ola! Meu nome é Jeferson Venicius 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeferson_venicius?igsh=MWkyeHY2cm91OWx3NQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-venicius-48b2602aa/)
 
 ![Jeferson Venicius GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJefersonVenicius&show_icons=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJefersonVenicius&layout=compact)
