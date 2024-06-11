@@ -1,10 +1,10 @@
-### Ola! Meu nome é Jeferson Venicius 👋
+### Olá! Meu nome é Jeferson Venicius 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-venicius-48b2602aa/)
 
 ![Jeferson Venicius GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJefersonVenicius&show_icons=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJefersonVenicius&layout=compact)
 
-## Tecnologias que uso no meu dia
+## Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -15,7 +15,8 @@
   <img align="center" alt="powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
 </div><br/>
 
-Aficionado por tecnologia e pela busca de novos conhecimentos 🚀👊
+Sou aficionado por tecnologia e pela busca de novos conhecimentos 🚀👊
+Email: veniciusvieira90@gmail.com
 
 
 
