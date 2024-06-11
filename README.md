@@ -16,6 +16,7 @@
 </div><br/>
 
 Sou aficionado por tecnologia e pela busca de novos conhecimentos 🚀👊
+
 Email: veniciusvieira90@gmail.com
 
 
