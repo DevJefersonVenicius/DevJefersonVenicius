@@ -28,4 +28,8 @@ Para contato:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJefersonVenicius&layout=compact&theme=dracula" alt="Top Langs" style="max-width: 48%;"/>
 </div>
 
+## Sobre mim
+
+Sou um desenvolvedor de software aficionado por tecnologia e inovação, estou sempre em busca de novos desafios e aprendizados.
+
 ---
