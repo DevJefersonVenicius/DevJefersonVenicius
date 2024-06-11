@@ -1,9 +1,10 @@
 ### Olá! Meu nome é Jeferson Venicius 👋
-Sou aficionado por tecnologia e pela busca de novos conhecimentos 🚀👊
+
+Para contato
 
 Email: veniciusvieira90@gmail.com
 
-Meu LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-venicius-48b2602aa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-venicius-48b2602aa/)
 
 ![Jeferson Venicius GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJefersonVenicius&show_icons=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJefersonVenicius&layout=compact)
 
